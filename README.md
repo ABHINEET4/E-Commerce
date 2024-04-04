@@ -28,7 +28,7 @@ Navigate to the project directory: cd E-Commerce App Install dependencies: npm i
 
 Conclusion :- Thank you for exploring E-Commerce Application! This project showcases my ability to implement user authentication, manage state with React Hooks, integrate Firebase services, and design a user-friendly E-Commerce application.
 
-The application can be viewed live at (Hosted Website Link) :- https://e-commerce-website-reactjs-frontend.netlify.app/signup
+The application can be viewed live at (Hosted Website Link) :- https://e-commerce-website-reactjs-frontend.netlify.app/
 
 # Note : : Incase there is an issue with the link just click on back to the website link it will open the website without any error.
 
