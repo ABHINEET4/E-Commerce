@@ -46,9 +46,9 @@ function Cart(){
               console.log(res);
             },
             prefill: {
-              name: "Rishabh Shukla",
-              email: "shuklarishabh890@gmail.com",
-              contact: "8433489789",
+              name: "Abhineet Kumar Mishra",
+              email: "abhineetsaharsa@gmail.com",
+              contact: "7250329544",
             },
             notes: {
               address: "Razorpay Corporate Office",
