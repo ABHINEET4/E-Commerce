@@ -160,7 +160,7 @@ function Cart(){
                 <button className="payment-btn" onClick={() => handleClick()}>Make a Payment</button>
               </div>
               <div className="note">
-                <b>Note:- Please take this into consideration that the amount limit is set up to Rs 15000. Any payment upper than Rs 15000 will
+                <b>Note:- Please take this into consideration that the amount limit is set up to Rs 10000. Any payment upper than Rs 10000 will
                   fail the transaction. Thanks :)
                 </b>
               </div>
